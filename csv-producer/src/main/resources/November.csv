@@ -1,0 +1,21 @@
+id,product,order_date,sale,price,unit,store,address
+1,iPhone 14,2022-09-30T15:29:03Z,1,347.77,USD,Apple mall of America,"114 West Market, Bloomington, MN 55425"
+2,iPhone X,2022-11-14T10:34:09Z,2,251.24,USD,Amazon FBA Warehouse,"705 Boulder Drive Breinigsville, PA 18031"
+3,macbook pro,2015-08-13T02:13:51Z,2,819.47,USD,Amazon FBA Warehouse,"705 Boulder Drive Breinigsville, PA 18031"
+4,iPhone X,2022-12-28T14:37:01Z,1,868.38,USD,Amazon FBA Warehouse,"705 Boulder Drive Breinigsville, PA 18031"
+5,iPhone X,2016-06-30T18:41:18Z,2,398.97,USD,Amazon FBA Warehouse,"705 Boulder Drive Breinigsville, PA 18031"
+6,iPhone14,2015-08-13T02:13:51Z,2,322.99,USD,Amazon FBA Warehouse,"705 Boulder Drive Breinigsville, PA 18031"
+7,iPhone X,2022-12-22T11:29:57Z,2,301.26,USD,Apple mall of America,"114 West Market, Bloomington, MN 55425"
+8,iPhone 8,2016-03-06T11:41:10Z,5,217.96,USD,Amazon FBA Warehouse, 650 Boulder Drive Breinigsville PA 18031
+9,iPhone 8 Plus,2015-10-27T22:07:24Z,7,495.8,USD,Apple mall of America,"114 West Market, Bloomington, MN 55425"
+10,iPhone 7,2015-11-07T11:12:52Z,1,157.75,USD,Amazon FBA Warehouse, 650 Boulder Drive Breinigsville PA 18031
+11,macbook pro,2015-08-22T13:16:18Z,1,431.8,USD,Apple Lenox Square,"3393 Peachtree Road NE, Atlanta, GA 30326"
+12,iPhone 7,2015-10-18T01:50:15Z,1,188.21,USD,Apple Lenox Square,"3393 Peachtree Road NE, Atlanta, GA 30326"
+13,iPhone 7,2022-01-14T17:51:09Z,4,206.73,USD,Apple Lenox Square,"3393 Peachtree Road NE, Atlanta, GA 30326"
+14,macbook pro,2015-09-02T21:53:07Z,1,499.48,USD,Walmart,"702 S.w. 8th St, Bentonville, Arkansas, 72716"
+15,macbook pro,2015-09-27T02:10:48Z,1,-65.19,USD,Walmart,"702 S.w. 8th St, Bentonville, Arkansas, 72716"
+16,macbook pro,2023-03-31T00:29:14Z,1,264.23,USD,Walmart,"702 S.w. 8th St, Bentonville, Arkansas, 72716"
+17,macbook pro,2023-02-10T14:29:35Z,8,309.26,USD,Walmart,"702 S.w. 8th St, Bentonville, Arkansas, 72716"
+18,iPhone 3GS,2023-05-11T03:15:10Z,2,927.45,USD,Apple Lenox Square,"3393 Peachtree Road NE, Atlanta, GA 30326"
+19,macbook pro,2023-02-28T18:49:23Z,1,752.76,USD,Apple Lenox Square,"3393 Peachtree Road NE, Atlanta, GA 30326"
+20,macbook pro,2023-02-15T01:06:44Z,1,143.3,USD,Walmart,"702 S.w. 8th St, Bentonville, Arkansas, 72716"

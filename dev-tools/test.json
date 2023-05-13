@@ -1,0 +1,12 @@
+{
+"id" : "1",
+"firstName" : "Jack",
+"lastName" : "Garcia",
+"email" : "jgarcia0@shop-pro.jp",
+"gender" : "Male",
+"ipAddress" : "196.56.44.185",
+"lastLogin" : "2015-09-30T15:29:03Z",
+"accountBalance" : "347.77",
+"countryIsoCode" : "IT",
+"favoriteColor" : "#4a2313"
+}

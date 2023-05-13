@@ -1,0 +1,24 @@
+# Ignore IntelliJ files
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+
+# Ignore vim file
+*~
+*#
+
+*.chproj
+.DS_Store
+
+# Ignore specific file/directory
+target
+classes
+target-eclipse
+/lib
+stacktrace.log
+
+# Ignore any logs files
+*.log
+

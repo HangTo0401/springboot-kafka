@@ -1,0 +1,10 @@
+.item-value {
+  width: 120px;
+  text-align: center;
+}
+
+.custom-class {
+  font-size: large;
+  font-weight: 600;
+  color: red;
+}

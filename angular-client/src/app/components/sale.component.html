@@ -1,0 +1,13 @@
+<div class="container-fluid">
+  <h1>Sales Data Management</h1>
+  <div class="custom-class">Total sales units: {{totalSaleUnits}}</div>
+  <div class="custom-class">Total sales revenue: {{totalSaleRevenue}} {{unit}}</div>
+  <br/>
+  <ag-grid-angular
+    *ngIf="rowData"
+    style="width: 100%; height: 500px;"
+    class="ag-theme-balham"
+    [rowData]="rowData"
+    [columnDefs]="columnDefs"
+  ></ag-grid-angular>
+</div>
